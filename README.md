@@ -5,7 +5,7 @@ Hello Everyone! I am Sai Ashish Boddupalli, an avid AI Enthusiast, Android and F
 # Links to Projects
 
 ## Deep-Convolutional-Q-Network-for-Atari-Breakout
-http://bsaiashish.github.io/Deep-Convolutional-Q-Network-for-Atari-Breakout/
+https://bsaiashish.github.io/Deep-Convolutional-Q-Network-for-Atari-Breakout/
 
 ## Travelling-Salesman-Problem-Solved-by-Genetic-Algorithm
 https://bsaiashish.github.io/Travelling-Salesman-Problem-Solved-by-Genetic-Algorithm/
