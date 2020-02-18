@@ -20,7 +20,7 @@ Hello Everyone! I am Sai Ashish Boddupalli, an avid AI Enthusiast, Android and F
 
 [Sentimental-Analysis-from-LIVE-Twitter-Feed](https://bsaiashish.github.io/Sentimental-Analysis-from-LIVE-Twitter-Feed/)
 
-![](https://github.com/bsaiashish/Sentimental-Analysis-from-LIVE-Twitter-Feed/blob/master/twitter_senti_analysis/sent_gif2.gif)
+![](https://1.bp.blogspot.com/-aTLb-Gnz3mg/XkwW03gZWNI/AAAAAAAAR94/4nAoCAKTDiMRBGE8GQEsQgl8bPsZhVQAQCLcBGAsYHQ/s320/sent_gif2.gif)
 
 ## Machine-Diagnostics-by-Audio-by-Deep-Learning-on-Raspberry-Pi
 
